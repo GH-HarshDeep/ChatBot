@@ -23,7 +23,7 @@ measurementId =
 
 ## Installation on local machine
 
-Clone the project in your local machine
+Clone the project in your local machine.
 
 ```bash
   git clone "github_project_link"
